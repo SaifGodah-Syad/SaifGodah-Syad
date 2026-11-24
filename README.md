@@ -1,4 +1,4 @@
-<h1 align="center">🤖 Saif Mohammed Godah aka Syn-Zero</h1>
+<h1 align="center">🤖 Saif Mohammed Godah</h1>
 <h3 align="center">AI & Automation Developer @ SyadTech • Prompt Engineer • Systems Integrator</h3>
 
 <p align="center">
