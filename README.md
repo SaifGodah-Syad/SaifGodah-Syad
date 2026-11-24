@@ -1,8 +1,9 @@
 <h1 align="center">🤖 Saif Mohammed Godah aka Syn-Zero</h1>
-<h3 align="center">AI & Automation Developer • Prompt Engineer • Systems Integrator</h3>
+<h3 align="center">AI & Automation Developer @ SyadTech • Prompt Engineer • Systems Integrator</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/focus-Automation%20%26%20Agentic%20AI-ff00ff?style=flat-square"/>
+  <img src="https://img.shields.io/badge/company-SyadTech-00ffff?style=flat-square"/>
   <img src="https://img.shields.io/badge/location-Planet%20Earth%20(UTC%2B3)-00ffff?style=flat-square"/>
 </p>
 
@@ -10,10 +11,32 @@
 
 ### About Me
 🔹 Passionate about **AI systems, agentic workflows, and prompt-driven automation**.  
-🔹 Building bridges between **models**, **data**, and **human intent** using code.  
-🔹 Exploring **LangChain**, **Mistral**, **Gemini**, and **OpenAI APIs**.  
+🔹 At **SyadTech** I build the **AI assistant inside iScope**, a construction project supervision platform.  
+🔹 Building bridges between **models**, **data**, and **human intent** using code, in **Arabic and English**.  
+🔹 Working with **.NET 8**, **Semantic Kernel**, **LangChain**, **Mistral**, **Gemini**, **DeepSeek**, and **OpenAI-compatible APIs**.  
 🔹 Love integrating **n8n**, **FastAPI**, and **custom pipelines** for intelligent process automation.  
 🔹 Dream: make AI tools that empower creativity and simplify complex work.
+
+---
+
+### 🏢 At Work: SyadTech
+
+**iScope AI Assistant**: an assistant built into iScope so that supervisors and managers can ask questions about their projects in plain Arabic or English and get answers they can trust.
+
+- 💬 **Ask in plain language**: questions about projects, contracts, visits and progress, answered from the real data.
+- 📊 **Reports with charts**: Excel and PDF reports with KPIs, bar, line, donut, heatmap, progress and waterfall charts. The server writes every number, so the model never invents them.
+- 🔐 **Everyone sees only their own projects**: access rules are enforced by the server, not by the prompt.
+- 🧠 **Team skills**: the iScope team writes playbooks (business analyst, data scientist, KPI dashboard design) that the assistant follows.
+- 🧪 **Tested**: automated tests on invented data, plus a check that the tests really fail when the rules are broken.
+- 🧭 **Built the micro way**: small leaf features, a critic review, replayable proof and a signed record.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-8-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Semantic%20Kernel-tool%20calling-00ffff?style=flat-square"/>
+  <img src="https://img.shields.io/badge/EF%20Core-SQL%20Server-ff00ff?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Reports-Excel%20%26%20PDF-1E8E5A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Languages-Arabic%20%7C%20English-2A57C0?style=flat-square"/>
+</p>
 
 ---
 
@@ -42,12 +65,12 @@
 
 ---
 
-### Active Projects
-- **`🤖 BotForges`** — Discover powerful automation bots that streamline your workflow, boost productivity, and handle repetitive tasks so you can focus on what matters most. with our latest feature `TraitEngine` is a game changer for nft creators.
-  
-- **`👩‍🦰 CASANDRA`** — Conversational Artificial System for Adaptive Neural Dialogue & Relationship Assistance
+### Side Projects
+- **`🤖 BotForges`**: Discover powerful automation bots that streamline your workflow, boost productivity, and handle repetitive tasks so you can focus on what matters most. With our latest feature `TraitEngine` is a game changer for NFT creators.
 
--  **`⚙️ TraitEngine`** — a fully customizable NFT generation system for creating unique, weighted trait collections that combines rarity control, layer-based design, and unlimited freedom. no generating limmits no ads no **BS** -> Generate. Control. Mint.
+- **`👩‍🦰 CASANDRA`**: Conversational Artificial System for Adaptive Neural Dialogue & Relationship Assistance
+
+- **`⚙️ TraitEngine`**: a fully customizable NFT generation system for creating unique, weighted trait collections that combines rarity control, layer-based design, and unlimited freedom. No generating limits, no ads, no **BS** -> Generate. Control. Mint.
 
 ---
 
@@ -57,4 +80,4 @@
 
 ---
 
-<h4 align="center">✨ “AI is not magic — it’s the art of teaching logic to dream.” ✨ </h4> 
+<h4 align="center">✨ “AI is not magic — it’s the art of teaching logic to dream.” ✨ </h4>
